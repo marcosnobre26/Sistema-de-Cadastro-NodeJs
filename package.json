@@ -1,0 +1,21 @@
+{
+  "name": "agendamento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/date-fns": "^2.6.0",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.2",
+    "date-fns": "^2.16.1",
+    "express": "^4.17.1",
+    "knex": "^0.21.12",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5"
+  }
+}
